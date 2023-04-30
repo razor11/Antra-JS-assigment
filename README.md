@@ -1,2 +1,2 @@
-# Final Result JSS Assignment
+# Final Result JS Assignment
 ![alt text](./assets/result.png)
